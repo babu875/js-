@@ -1,19 +1,69 @@
-h3{color:peru;}
-
-    
-  h1{color: gold;
-     background-color: maroon;
+#a{color: greenyellow;
+    padding: 15px 15px ;
+    background-color: magenta;
     text-align: center;
-    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px 200px;
     }
      
     
     
     
-    h3{color: gold;
+    
+    #b{color: rgb(7, 252, 39);
+    background-color: blue;
+    padding: 30px 60px;
+    text-align: center;
+    margin: 10px 150px;
+    
+    
+    
+    
+    
+    }
+    .z{ 
+    float: left;
+    }
+    
+    #c{text-align: center;
+    color: gold;
+    background-color: black;
+    float: none;
+    padding: 30px ;
+    margin: 00px 250px;
+    
+    }
+    #i{color: white;}
+    
+    .d{height: 300px;
+    margin: ;
+    }
+    
+    .visit{color: gold;
+     background-color: maroon;
+    text-align: center;
+    
+    }
+    
+    
+    
+    
+    #ak{color: gold;
         background-color: maroon;
        text-align: center;
        }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
